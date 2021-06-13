@@ -1,0 +1,120 @@
+Predicting...
+Accuracy:  0.6743511918971455
+Predicting...
+Accuracy:  0.7820141186099648
+Predicting...
+Accuracy:  0.8384203526242199
+Predicting...
+Accuracy:  0.8448999079221089
+Predicting...
+Accuracy:  0.855096681785629
+Predicting...
+Accuracy:  0.8693517034409849
+Predicting...
+Accuracy:  0.8742454728370221
+Predicting...
+Accuracy:  0.8824813286498653
+Predicting...
+Accuracy:  0.8873580465845923
+Predicting...
+Accuracy:  0.889080244176926
+Predicting...
+Accuracy:  0.887409200968523
+Predicting...
+Accuracy:  0.8863861132899089
+Predicting...
+Accuracy:  0.8887051120281008
+Predicting...
+Accuracy:  0.8854653343791563
+Predicting...
+Accuracy:  0.884425195239232
+Predicting...
+Accuracy:  0.8858916209119122
+Predicting...
+Accuracy:  0.8864372676738397
+Predicting...
+Accuracy:  0.8880571564983119
+Predicting...
+Accuracy:  0.8885175459536883
+Predicting...
+Accuracy:  0.889080244176926
+
+real    0m13.374s
+user    0m12.194s
+sys     0m1.758s
+
+real    0m16.997s
+user    0m15.827s
+sys     0m1.762s
+
+real    0m18.900s
+user    0m17.660s
+sys     0m1.956s
+
+real    0m14.543s
+user    0m13.913s
+sys     0m1.414s
+
+real    0m11.321s
+user    0m11.053s
+sys     0m0.961s
+
+real    0m13.658s
+user    0m12.970s
+sys     0m1.362s
+
+real    0m12.240s
+user    0m11.785s
+sys     0m1.158s
+
+real    0m12.276s
+user    0m11.624s
+sys     0m1.303s
+
+real    0m10.730s
+user    0m10.492s
+sys     0m0.914s
+
+real    0m12.939s
+user    0m12.391s
+sys     0m1.209s
+
+real    0m10.390s
+user    0m10.000s
+sys     0m1.039s
+
+real    0m10.466s
+user    0m10.244s
+sys     0m0.874s
+
+real    0m14.044s
+user    0m13.513s
+sys     0m1.225s
+
+real    0m10.064s
+user    0m9.670s
+sys     0m1.046s
+
+real    0m12.485s
+user    0m11.915s
+sys     0m1.230s
+
+real    0m10.335s
+user    0m10.056s
+sys     0m0.927s
+
+real    0m10.306s
+user    0m9.914s
+sys     0m1.057s
+
+real    0m12.820s
+user    0m12.314s
+sys     0m1.168s
+
+real    0m10.577s
+user    0m10.264s
+sys     0m0.974s
+
+real    0m10.911s
+user    0m10.470s
+sys     0m1.127s

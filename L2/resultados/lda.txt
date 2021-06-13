@@ -1,0 +1,120 @@
+Predicting...
+Accuracy:  0.7873171230774477
+Predicting...
+Accuracy:  0.8732735395423388
+Predicting...
+Accuracy:  0.8935477270402074
+Predicting...
+Accuracy:  0.8853630256112949
+Predicting...
+Accuracy:  0.8905296183882959
+Predicting...
+Accuracy:  0.9025167956893906
+Predicting...
+Accuracy:  0.9124407461719469
+Predicting...
+Accuracy:  0.9207618592913412
+Predicting...
+Accuracy:  0.9237117620980118
+Predicting...
+Accuracy:  0.9278552671963988
+Predicting...
+Accuracy:  0.9260648637588241
+Predicting...
+Accuracy:  0.9245472837022133
+Predicting...
+Accuracy:  0.9242233059373188
+Predicting...
+Accuracy:  0.9220407188896088
+Predicting...
+Accuracy:  0.9208300651365822
+Predicting...
+Accuracy:  0.9210517341336153
+Predicting...
+Accuracy:  0.923149063874774
+Predicting...
+Accuracy:  0.9250588275415204
+Predicting...
+Accuracy:  0.9264229444463391
+Predicting...
+Accuracy:  0.9278552671963988
+
+real    0m9.549s
+user    0m9.883s
+sys     0m1.123s
+
+real    0m11.811s
+user    0m12.012s
+sys     0m1.432s
+
+real    0m9.763s
+user    0m9.914s
+sys     0m1.419s
+
+real    0m9.667s
+user    0m10.119s
+sys     0m1.333s
+
+real    0m11.696s
+user    0m11.975s
+sys     0m1.351s
+
+real    0m9.624s
+user    0m9.961s
+sys     0m1.382s
+
+real    0m9.707s
+user    0m10.088s
+sys     0m1.338s
+
+real    0m11.967s
+user    0m12.124s
+sys     0m1.815s
+
+real    0m11.199s
+user    0m11.603s
+sys     0m1.906s
+
+real    0m12.092s
+user    0m14.097s
+sys     0m3.632s
+
+real    0m9.954s
+user    0m10.562s
+sys     0m1.911s
+
+real    0m10.252s
+user    0m11.043s
+sys     0m1.812s
+
+real    0m12.239s
+user    0m13.069s
+sys     0m1.559s
+
+real    0m11.543s
+user    0m14.128s
+sys     0m4.456s
+
+real    0m10.973s
+user    0m11.996s
+sys     0m2.043s
+
+real    0m12.487s
+user    0m13.193s
+sys     0m2.136s
+
+real    0m9.749s
+user    0m10.752s
+sys     0m1.685s
+
+real    0m12.867s
+user    0m15.112s
+sys     0m3.903s
+
+real    0m10.301s
+user    0m11.562s
+sys     0m2.052s
+
+real    0m10.152s
+user    0m11.234s
+sys     0m2.217s

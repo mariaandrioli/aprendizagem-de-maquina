@@ -1,0 +1,120 @@
+Predicting...
+Accuracy:  0.7560788459570985
+Predicting...
+Accuracy:  0.8801623299116734
+Predicting...
+Accuracy:  0.8987654742011391
+Predicting...
+Accuracy:  0.8517545953688231
+Predicting...
+Accuracy:  0.8978787982130069
+Predicting...
+Accuracy:  0.8805204105991884
+Predicting...
+Accuracy:  0.9073594107014972
+Predicting...
+Accuracy:  0.890171537700781
+Predicting...
+Accuracy:  0.9184940149370802
+Predicting...
+Accuracy:  0.8603485318691811
+Predicting...
+Accuracy:  0.9384442246700542
+Predicting...
+Accuracy:  0.9051768236537872
+Predicting...
+Accuracy:  0.9282474508065341
+Predicting...
+Accuracy:  0.8981857245165911
+Predicting...
+Accuracy:  0.9120656140231218
+Predicting...
+Accuracy:  0.906336323022883
+Predicting...
+Accuracy:  0.9353238072502813
+Predicting...
+Accuracy:  0.9339426388841524
+Predicting...
+Accuracy:  0.9223305937318829
+Predicting...
+Accuracy:  0.9269856426695768
+
+real    0m11.321s
+user    0m11.257s
+sys     0m1.136s
+
+real    0m9.424s
+user    0m9.483s
+sys     0m1.052s
+
+real    0m10.314s
+user    0m10.411s
+sys     0m1.191s
+
+real    0m11.571s
+user    0m11.542s
+sys     0m1.115s
+
+real    0m11.189s
+user    0m11.306s
+sys     0m1.055s
+
+real    0m16.319s
+user    0m16.209s
+sys     0m1.203s
+
+real    0m12.515s
+user    0m12.392s
+sys     0m1.201s
+
+real    0m15.987s
+user    0m15.932s
+sys     0m1.214s
+
+real    0m12.502s
+user    0m12.302s
+sys     0m1.374s
+
+real    0m9.726s
+user    0m9.832s
+sys     0m1.038s
+
+real    0m11.884s
+user    0m11.873s
+sys     0m1.161s
+
+real    0m10.037s
+user    0m10.063s
+sys     0m1.101s
+
+real    0m11.861s
+user    0m11.903s
+sys     0m1.223s
+
+real    0m9.769s
+user    0m9.903s
+sys     0m0.979s
+
+real    0m10.196s
+user    0m10.434s
+sys     0m0.934s
+
+real    0m12.248s
+user    0m12.420s
+sys     0m1.002s
+
+real    0m10.512s
+user    0m10.453s
+sys     0m1.219s
+
+real    0m10.942s
+user    0m11.140s
+sys     0m1.044s
+
+real    0m12.807s
+user    0m12.848s
+sys     0m1.203s
+
+real    0m11.604s
+user    0m11.539s
+sys     0m1.246s
