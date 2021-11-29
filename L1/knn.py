@@ -30,7 +30,7 @@ def main(data):
         #X_test = scaler.fit_transform(X_test_dense)
         
         # cria um kNN
-        neigh = KNeighborsClassifier(n_neighbors=2, metric='mahalanobis')
+        neigh = KNeighborsClassifier(n_neighbors=5)
 
         print ('Fitting knn')
         neigh.fit(X_train, y_train)
